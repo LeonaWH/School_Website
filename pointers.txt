@@ -1,0 +1,13 @@
+Navbar:
+    About- St. Anthony, Managers message, Principals Desk, Student Qualities
+    Faculty
+    Admissions  
+    News
+    Facilities
+    PTA
+    Contact
+
+
+HomePage
+- About, Vision, News
+

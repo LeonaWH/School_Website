@@ -1,0 +1,160 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
+#navbar a{
+    color: #CC7722;
+    padding:5px 15px ;
+    font-weight: 400;
+  
+}
+#navbar a:hover{
+    color: black;
+}
+
+.navbar{
+    position: fixed;
+    font-size: 22px;
+    border-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color:#CC7722;
+    border-bottom: #CC7722 solid 2px;
+   
+}
+#welcome-section{
+    text-align: center;
+    padding: 30px;
+    height: 100vh;
+}
+
+#school-logo{
+    width:20%;
+    text-align: center;
+    padding: 30px;
+}
+#school-name{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Cambria';
+}
+#school-name:hover{
+    text-shadow: 1.5px 1.5px #c0c0c0;
+}
+#school-location{
+    font-size: 28px;
+    font-weight: 500;
+    
+}
+#about{
+    background-color: #CC7722;
+    padding:30px;
+}
+
+.div-title1{
+    color: white;
+    font-size:40px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 700;
+    
+}
+.div-title1:hover{
+    color: black;
+}
+#homepage-about{
+    padding: 30px;
+    color: white;
+    font-size: 22px;
+    text-align: justify;
+}
+
+#v-m{
+    padding: 30px;
+}
+#vision-para{
+    padding: 30px;
+  
+    font-size: 22px;
+    text-align: justify;
+}
+.div-title2{
+    color:#CC7722;
+    font-size:40px;
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 700;
+    
+}
+.div-title2:hover{
+    color: black;
+}
+#homepage-news{
+    background-color: #CC7722;
+    padding: 30px;
+}
+
+.row{
+    padding: 30px;
+}
+.card-img-top{
+    height: 200px;
+    padding: 2px;
+}
+
+#footer{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+#school-footer{
+    width: 300px;
+    padding-right: 50px;
+    padding-left: 0%;
+
+}
+#footer-col{
+    padding: 10px;
+}
+#footer-container{
+    padding: 0%;
+    margin: 0%;
+}
+.footer-about-links{
+    
+    margin: 0%;
+    text-decoration: none;
+    font-weight: 400;
+
+}
+
+.footer-about-links a{
+    text-decoration: none;
+    color: black;
+
+}
+.footer-about-links a:hover{
+    color: #CC7722;
+    
+}
+.footer-contacts{
+    padding:0.1px;
+    font-weight: 400;
+}
+.fa-brands{
+    padding-right: 15px;
+}
+.fa-solid{
+    padding-right: 8px;
+}
+#copyright{
+    background-color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    color: #CC7722;
+    border-top: #CC7722 1px solid;
+    padding: 30px;
+
+}
