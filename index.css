@@ -1,9 +1,14 @@
+html{
+    padding: 0%;
+    margin: 0%;
+}
 body{
     margin: 0%;
     padding: 0%;
     font-family: 'Montserrat', sans-serif;
     color: black;
 }
+
 
 #navbar a{
     color: #CC7722;
@@ -24,16 +29,22 @@ body{
     border-bottom: #CC7722 solid 2px;
    
 }
+.navbar-title{
+    font-weight: 700;
+}
+.container{
+    width: 100%;
+}
 #welcome-section{
     text-align: center;
-    padding: 30px;
-    width: 100vw;
+    padding: 20px;
+
 }
 
 #school-logo{
     width:20%;
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 #school-name{
     font-size: 50px;
@@ -50,14 +61,16 @@ body{
 }
 #about{
     background-color: #CC7722;
-    padding:30px;
+    padding: 20px;
+   
+   
 }
 
 .div-title1{
     color: white;
     font-size:40px;
     text-align: center;
-    padding-top: 30px;
+    padding: 20px;
     font-weight: 700;
     
 }
@@ -65,17 +78,18 @@ body{
     color: black;
 }
 #homepage-about{
-    padding: 30px;
+    padding: 20px;
     color: white;
     font-size: 22px;
     text-align: justify;
+  
 }
 
 #v-m{
-    padding: 30px;
+    padding: 20px;
 }
 #vision-para{
-    padding: 30px;
+    padding: 20px;
   
     font-size: 22px;
     text-align: justify;
@@ -84,7 +98,7 @@ body{
     color:#CC7722;
     font-size:40px;
     text-align: center;
-    padding-top: 30px;
+    padding: 20px;
     font-weight: 700;
     
 }
@@ -93,11 +107,11 @@ body{
 }
 #homepage-news{
     background-color: #CC7722;
-    padding: 30px;
+    padding: 20px;
 }
 
 .row{
-    padding: 30px;
+    padding: 20px;
 }
 .card-img-top{
     height: 200px;
@@ -105,8 +119,8 @@ body{
 }
 
 #footer{
-    padding-top: 30px;
-    padding-left: 30px;
+    padding: 20px;
+    padding: 20px;
 }
 
 #school-footer{
@@ -155,6 +169,8 @@ body{
     font-weight: 400;
     color: #CC7722;
     border-top: #CC7722 1px solid;
-    padding: 30px;
+    padding: 20px;
+   
+    
 
 }
