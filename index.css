@@ -27,7 +27,7 @@ body{
 #welcome-section{
     text-align: center;
     padding: 30px;
-    height: 100vh;
+    width: 100vw;
 }
 
 #school-logo{
